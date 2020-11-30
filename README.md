@@ -30,7 +30,7 @@
 4. 負ける手のポーズをとる
 <img width="620" alt="システム図改" src="https://user-images.githubusercontent.com/72371850/99904779-893af080-2d10-11eb-80a4-60111a286d8a.png
 -認識
--![スクリーンショット 2020-11-30 154015](https://user-images.githubusercontent.com/72371743/100576948-7c2a8c80-3322-11eb-9477-54b8f21eb546.png)
+-![スクリーンショット (2)](https://user-images.githubusercontent.com/72371743/100577874-7f267c80-3324-11eb-981f-c1ede2f6b6ef.png)
 
 
 ---
