@@ -28,7 +28,9 @@
 2. realsenseで人間の手のポーズを認識する
 3. 画像データから勝ちorあいこの時、人間の手に負ける手を選ぶ
 4. 負ける手のポーズをとる
-<img width="620" alt="システム図改" src="https://user-images.githubusercontent.com/72371850/99904779-893af080-2d10-11eb-80a4-60111a286d8a.png">
+<img width="620" alt="システム図改" src="https://user-images.githubusercontent.com/72371850/99904779-893af080-2d10-11eb-80a4-60111a286d8a.png
+-認識
+-![スクリーンショット 2020-11-30 154015](https://user-images.githubusercontent.com/72371743/100576948-7c2a8c80-3322-11eb-9477-54b8f21eb546.png)
 
 
 ---
